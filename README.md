@@ -6,7 +6,7 @@ A modern and responsive clone of the Digikala homepage, built with **HTML**, **C
 ## 🌐 Live Demo
 
 👉 **View the project here:**
-**https://pixelbysoroush.github.io/digiKala-mainPage/digikala/index.html**
+**https://pixelbysoroush.github.io/digiKala-homePage/index.html**
 
 ---
 
