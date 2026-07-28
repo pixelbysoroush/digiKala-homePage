@@ -11,11 +11,8 @@ A modern and responsive clone of the Digikala homepage, built with **HTML**, **C
 ---
 
 ## 📸 Preview
-
-> Add a screenshot of your homepage inside an `assets` or `screenshots` folder and display it here.
-
 ```markdown
-![Preview](./screenshots/homepage.png)
+![Preview](assets/pics/screenshot/homepage.png)
 ```
 
 ---
