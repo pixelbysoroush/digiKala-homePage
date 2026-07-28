@@ -1,3 +1,4 @@
+
 # 🛍️ Digikala Landing Page Clone
 
 A modern and responsive clone of the Digikala homepage, built with **HTML**, **CSS**, and **Tailwind CSS**. This project focuses on creating a clean, pixel-perfect user interface while maintaining responsiveness across different screen sizes.
@@ -108,3 +109,4 @@ If you like this project, consider giving it a ⭐ on GitHub. It really helps an
 This project is intended for educational and portfolio purposes only.
 
 Digikala® is a registered trademark of its respective owners. This repository is **not affiliated with or endorsed by Digikala**.
+
