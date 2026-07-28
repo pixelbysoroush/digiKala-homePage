@@ -12,7 +12,7 @@ A modern and responsive clone of the Digikala homepage, built with **HTML**, **C
 
 ## 📸 Preview
 ```markdown
-![Preview](assets/pics/screenshot/homepage.png)
+![Preview](./assets/pics/screenshot/homepage.png)
 ```
 
 ---
