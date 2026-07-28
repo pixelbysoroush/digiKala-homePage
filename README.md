@@ -11,11 +11,8 @@ A modern and responsive clone of the Digikala homepage, built with **HTML**, **C
 ---
 
 ## 📸 Preview
-```markdown
 ![Preview](./assets/pics/screenshot/homepage.png)
 ```
-
----
 
 ## ✨ Features
 
@@ -40,15 +37,12 @@ A modern and responsive clone of the Digikala homepage, built with **HTML**, **C
 
 ## 📂 Project Structure
 
-```text
-.
 ├── assets/
 │   ├── css/
 │   └── js/
 │   └── pics/
 ├── index.html
 └── README.md
-```
 
 ---
 
